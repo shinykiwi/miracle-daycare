@@ -1,1 +1,18 @@
-[0618/115013.498:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0709/212140.627:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0709/212145.445:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0709/212312.670:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0709/212312.671:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0709/212312.671:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0709/212312.671:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0709/212312.671:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0709/212312.673:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0709/212323.106:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/bicak/Desktop/miracle-daycare/MDGame2023/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/bicak/Desktop/miracle-daycare/MDGame2023/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0709/212323.111:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/bicak/Desktop/miracle-daycare/MDGame2023/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/bicak/Desktop/miracle-daycare/MDGame2023/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0709/212341.122:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
